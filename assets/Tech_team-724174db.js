@@ -1,0 +1,1 @@
+import t from"./Tech-1304524a.js";import{o as e,k as o}from"./index-6c09e21d.js";import"./_plugin-vue_export-helper-c27b6911.js";import"./pageData-ae37e02c.js";const n={__name:"Tech_team",setup(r){return(a,m)=>(e(),o(t,{type:"team"}))}};export{n as default};
