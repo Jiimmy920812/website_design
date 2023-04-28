@@ -1,0 +1,1 @@
+import r from"./Tech-a522d4f4.js";import{o,k as t}from"./index-14610907.js";import"./_plugin-vue_export-helper-c27b6911.js";import"./pageData-9bf995d1.js";const n={__name:"Tech_arch",setup(c){return(e,a)=>(o(),t(r,{type:"arch"}))}};export{n as default};
