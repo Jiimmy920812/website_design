@@ -1,1 +1,0 @@
-import r from"./Tech-a522d4f4.js";import{o as t,k as e}from"./index-14610907.js";import"./_plugin-vue_export-helper-c27b6911.js";import"./pageData-9bf995d1.js";const s={__name:"Tech_material",setup(a){return(o,m)=>(t(),e(r,{type:"material"}))}};export{s as default};
